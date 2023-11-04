@@ -47,7 +47,7 @@ view model =
 
 url : String
 url = 
-    "http://localhost:8000/src/data.json"
+    "http://localhost:8000/data/prot-des.json"
 
 getData : Cmd Msg
 getData =
